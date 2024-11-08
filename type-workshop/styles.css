@@ -1,0 +1,52 @@
+body {
+    background-color: burlywood;
+}
+
+
+.type1 {
+    font-family: "Oswald";
+    font-weight:700;
+    letter-spacing: 5px;
+    line-height: 1.5;
+    font-size: 30px;
+    text-align: center;
+        
+}
+
+.type2 {
+    font-family: "Bebas Neue";
+}
+
+.type3 {
+    font-family: "Doto";
+    font-weight: 400;
+}
+
+.type4 {
+    font-family: "Elsie";
+    font-weight: 500;
+}
+
+.type5 {
+    font-family: "Anton"
+}
+
+.type6 {
+    font-family: "Honk";
+}
+
+.type7 {
+    font-family: "Galindo";
+}
+
+.type8 {
+    font-family: "Sofia Sans";
+}
+
+.type9 {
+    font-family: "Stoke";
+}
+
+.type10 {
+    font-family: "Stoke";
+}
