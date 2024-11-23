@@ -1,0 +1,77 @@
+.yellow-box {
+    background-color: yellow;
+    height:100vh;
+    width: 700px;
+    border-style: solid;
+    border-color: red;
+    border-radius: 30px;
+    
+}
+
+.green-box {
+    background-color: green;
+    height: 60%;
+    width: 600px;
+    border-radius: 30px;
+    border: 5px solid red;
+    
+    
+    
+    
+    
+    
+}
+
+.red-box {
+    background-color: red;
+    color: white;
+    height: 200px;
+    width: 150px;
+    border-radius: 10px;
+    text-align: center;
+    
+  
+    
+        
+}
+
+.yellow-box > div {
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+.cyan-box {
+    background-color: cyan;
+    height: 100px;
+    width: 100px;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 20px;
+    margin:auto;
+   
+}
+
+.blue-box {
+    background-color: blue;
+    height: 200px;
+    width: 150px;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+    margin-left: 20px
+    
+}
+
+
+.orange-box {
+    background-color: orange;
+    height: 60px;
+    width: 150px;
+    border-radius: 10px;
+    text-align: center;
+    margin: auto;
+    
+    
+}
+
+
