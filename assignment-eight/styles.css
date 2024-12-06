@@ -1,0 +1,97 @@
+.yellow-box {
+    width: 680px;
+    height: 1000px;
+    background-color: yellow;
+    float: left;
+}
+
+
+
+.green-box {
+    height: 160px;
+    width: 600px;
+    background-color: limegreen;
+    margin-top: 30px;
+    margin-left: 20px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-right: 15px;
+}
+
+.cyan-box {
+    height: 150px;
+    width: 150px;
+    background-color: cyan;
+    text-align: center;
+    padding-top: 1px;
+    float: left;
+}
+
+.light-brown-box {
+    height: 150px;
+    width: 150px;
+    background-color: rosybrown;
+    float: right;
+    text-align: center;
+}
+
+.blue-box {
+    height: 400px;
+    width: 635px;
+    background-color: cadetblue;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+.white-box {
+    height: 150px;
+    width: 150px;
+    background-color: antiquewhite;
+    float: left;
+    margin-top: 20px;
+    margin-left: 20px;
+    text-align: center;
+}
+
+.black-box {
+    height: 150px;
+    width: 150px;
+    background-color: black;
+    float: right;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+.orange-box {
+    height: 150px;
+    width: 600px;
+    background-color: orange;
+    float: right;
+    margin-right: 20px;
+    margin-top: 60px;
+    text-align: center;
+}
+
+.brown-box {
+    height: 300px;
+    width: 635px;
+    background-color: brown;
+    margin-top: 30px;
+    margin-left: 20px;
+    font-size: large;
+    color: white;
+    
+    
+}
+
+.purple-box {
+    height: 150px;
+    width: 150px;
+    background-color: purple;
+    float: left;
+    margin: 20px;
+    text-align: center;
+    
+}
