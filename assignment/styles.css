@@ -1,0 +1,45 @@
+body {
+    background-color: antiquewhite;
+}
+
+h1 {
+    color: cadetblue;
+    text-align: center;
+}
+
+.title-box {
+    background-color: aquamarine;
+    width: 1500px;
+    height: 60px;
+    text-align: center;
+    margin: 10px;
+    
+}
+
+.kevin {
+    background-image: url(picture/6638636_orig.jpg);
+    width: 1000px;
+    height: 1000px;
+    background-repeat: no-repeat;
+    margin: auto;
+}
+
+.red-box {
+    width: 300px;
+    height: 300px;
+    background-color: red;
+    
+}
+
+.blue-box, .yellow-box {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    display: inline-block;
+}
+
+.yellow-box {
+    width: 50px;
+    height: 50px;
+    background-color: yellow;
+}
