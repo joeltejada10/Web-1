@@ -1,0 +1,138 @@
+
+
+
+header {
+    display: flex;
+    padding: 40px 54px;
+    align-items: center;
+    background-color: white;
+}
+
+.left-items {
+    width: 100%;
+}
+
+.logo {
+    width: 127px;
+    height: 40px;
+}
+
+.right-items {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 24px;
+    width: 100%;
+    
+}
+
+/* hero banner */
+.hero {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    justify-content: center;
+    align-items: center;
+    height: 540px;
+    padding: 0 16px;
+    background-image: url(../Zenin/banners/hero-bg.jpg);
+    background-size: cover;
+    color: #FFFFFF;
+}
+
+.button {
+    padding: 8px 24px;
+    background-color:yellow;
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+    font-size: 24px;
+}
+
+.mens-left {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+
+.mens-img {
+    display: flex;
+    gap: 22px;
+    justify-content: center;
+    
+}
+
+.mens-text {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 205px;
+    
+}
+
+.mens-price {
+    display: flex;
+    padding: 0 205px;
+}
+
+.womens-img {
+    display: flex;
+    gap: 22px;
+    justify-content: center;
+}
+
+.sale-banner {
+    background-image: url(../Zenin/banners/sale-bg.jpg);
+    height: 300px;
+    width: 75%;
+    justify-content: center;
+    margin: auto;
+}
+
+.button2 {
+    padding: 8px 24px;
+    background-color:black;
+    text-decoration: none;
+    color: yellow;
+    font-weight: 500;
+    font-size: 24px;
+}
+
+.sale-banner > * {
+    margin-left: 5%;
+}
+
+#un {
+    padding-top: 5%;
+}
+
+footer {
+    background-color: black;
+    height: 400px;
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+}
+
+.top-footer {
+    color: white;
+}
+
+.footer-about {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+
+.footer-quick {
+    color: white;
+}
+
+.footer-social {
+    color: white;
+    
+}
