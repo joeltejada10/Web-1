@@ -1,0 +1,163 @@
+section {
+    width: 100%;
+    position: relative;
+    background-color:beige;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 120px 16px;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 12px;
+    font-family: Manrope;
+}
+
+.inner-frame {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1078px;
+}
+
+.text {
+    align-self: stretch;
+    width: 360px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.badge {
+    border-radius: 20px;
+    border: 0.8px solid;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 5px 10px;
+}
+
+.quote {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+    text-align: left;
+    gap: 27px;
+}
+
+.superb-product {
+    align-self: stretch;
+    position: relative;
+    letter-spacing: -0.02em;
+    line-height: 110%;
+    font-size: 48px;
+}
+
+.jo {
+    align-self: stretch;
+    position: relative;
+    font-size: 22px;
+    letter-spacing: -0.01em;
+    line-height: 110%;
+    
+}
+
+.atlanta {
+    align-self: stretch;
+    position: relative;
+    font-size: 12px;
+    letter-spacing: -0.01em;
+    line-height: 130%;
+}
+
+.newsletter-sign-up {
+    width: 100%;
+    position: relative;
+    background-color: #f0f059;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 80px 16px;
+    box-sizing: border-box;
+    gap: 40px;
+    text-align: center;
+    font-size: 42px;
+    font-family: Manrope;
+}
+
+.sign-up {
+    align-self: stretch;
+    position: relative;
+    letter-spacing: -0.02em;
+    line-height: 110%;
+}
+
+.get-access {
+    width: 100%;
+    position: relative;
+    font-size: 28px;
+    letter-spacing: -0.02em;
+    line-height: 130%;
+    font-weight: 300;
+    display: inline-block;
+    max-width: 805px;
+}
+
+.subscribe {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    text-align: left;
+    font-size: 18px;
+    font-family: Instrument Sans;
+    gap: 16px;
+}
+
+.email-input {
+    width: 352px;
+    border-radius: 50px;
+    background-color: white;
+    height: 54px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 17px 25px;
+    box-sizing: border-box;
+}
+
+.enter-your-email {
+    position: relative;
+    letter-spacing: -0.03em;
+    line-height: 110%;
+}
+
+.button {
+    border-radius: 50px;
+    background-color: black;
+    height: 54px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 16px 36px;
+    box-sizing: border-box;
+    text-align: center;
+    font-family: Manrope;
+    
+}
+
+.subscribe1 {
+    position: relative;
+    color: white;
+}
